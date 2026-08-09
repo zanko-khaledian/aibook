@@ -1,2 +1,3 @@
 # aibook
 writing a silliy bopk to teach github
+we are going to use this file during this course...
