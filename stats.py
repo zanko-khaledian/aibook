@@ -1,1 +1,2 @@
-# just a place holder
+print(28 * 3)
+print("zanko khaledian")
